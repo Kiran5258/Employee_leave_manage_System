@@ -44,7 +44,6 @@ Create a `.env` file in the project root.
 PORT=5000
 MONGO_URI=mongodb://localhost:27017/employee_leave_system
 JWT_SECRET=your_secret_key
-JWT_EXPIRES_IN=7d
 ```
 
 ---
